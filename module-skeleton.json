@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-gift-cards-and-store-credit-vue-inertia",
+  "capabilityKey": "planned:ecommerce:gift-cards-and-store-credit",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-gift-cards-and-store-credit-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/gift-cards-and-store-credit.md",
+  "presentationPlan": "projects/ecommerce/vue/gift-cards-and-store-credit.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
